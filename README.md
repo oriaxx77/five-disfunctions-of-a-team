@@ -21,8 +21,8 @@ Disfunctional Team
 * Avoid confrontation
 
 High Performance Team
-* Discuss problems (healthy team debates)
-* Discuss each others' behaviour
+* Discuss problems (healthy, constructive team debates)
+* Call out inappropriate behaviour
 * Confront each other
 
 
