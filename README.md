@@ -15,8 +15,9 @@ High Performance Team
 * Expect the best from others
 
 # 2. Fear of Conflict \<Disfunction\>
-* This can result in an artificial harmony where the problems are not targeted and solved. 
-* Problems are swept under the rug.
+* This can result in an artificial harmony where the problems are not targeted and solved
+* Problems are swept under the rug
+* Tension is != constructive conflict and healthy debate
 
 Disfunctional Team
 * Avoid people
@@ -27,6 +28,40 @@ High Performance Team
 * Discuss problems (healthy, constructive team debates)
 * Call out inappropriate behaviour
 * Confront each other
+
+# 3. Lack of Commitment \<Disfunction\>
+* It leads to ambiguity
+
+Disfunctional Team
+* Discussing the same things over & over without decisions
+* Don't commit to work
+* Messy objectives and priority
+* Not engaging in finding the solution
+
+High Performance Team
+* Commiting to a shared goal where we have a team buy in
+* Everyone is engaging in the solution
+ * It is not about consensus -> it can displease everyone  
+* Clear objectives and priority
+
+
+# 4. Avoidance of Accountability \<Disfunction\>
+* Leads to not
+ * confronting difficult issues
+ * making (tough) decisions
+* We have to hold each other accountable for what we have promised/high standards/performance
+
+Disfunctional Team
+* Accept poor performance
+* Accept not fulfilling promises
+* Lack of team ownership
+* Have Different standards for different people
+
+High Performance Team
+* Have high standards
+* Hold each other accountable for promises
+* Have team ownership
+* Have the same standards for everyone
 
 
 # 5. Inattention to Result
