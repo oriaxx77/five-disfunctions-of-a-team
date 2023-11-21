@@ -1,6 +1,6 @@
 # Five disfunctions of a team \<Notes\>
 
-# 1. Absence of Trust
+# 1. Absence of Trust \<Disfunction\>
 Disfunctional Team
 * Hide mistakes
 * Hold grudges
@@ -14,7 +14,19 @@ High Performance Team
 * Share weaknesses
 * Expect the best from others
 
-# 2. Inattention to Result
+# 2. Fear of Conflict \<Disfunction\>
+Disfunctional Team
+* Avoid people
+* Avoid problems
+* Avoid confrontation
+
+High Performance Team
+* Discuss problems (healthy team debates)
+* Discuss each others' behaviour
+* Confront each other
+
+
+# 5. Inattention to Result
 
 ## Ego (Inattention to the collective result)
 
