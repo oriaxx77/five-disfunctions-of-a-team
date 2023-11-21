@@ -23,3 +23,6 @@ The goal is to create the best possible team:
   * The sales says the product is not ready
   * The product/tech says the sales are not selling the product
   * Overall the product is feiling :(
+* Everyone is responsible for everything. -> collective result
+* Everyone should be involved to every activity.
+*  E.g.: the tech should know about the sales. The sales should know about the tech etc....  
