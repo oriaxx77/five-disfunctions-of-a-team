@@ -15,6 +15,9 @@ High Performance Team
 * Expect the best from others
 
 # 2. Fear of Conflict \<Disfunction\>
+* This can result in an artificial harmony where the problems are not targeted and solved. 
+* Problems are swept under the rug.
+
 Disfunctional Team
 * Avoid people
 * Avoid problems
