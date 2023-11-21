@@ -1,5 +1,19 @@
 # Five disfunctions of a team \<Notes\>
 
+# 1. Absence of Trust
+Disfunctional Team
+* Hide mistakes
+* Hold grudges
+* Make assumptions
+
+High Performance Team
+* Be human
+* Ask for help
+* Share weaknesses
+* Expect the best from others
+
+# 2. Inattention to Result
+
 ## Ego (Inattention to the collective result)
 
 The goal is to create the best possible team:
@@ -25,4 +39,9 @@ The goal is to create the best possible team:
   * Overall the product is feiling :(
 * Everyone is responsible for everything. -> collective result
 * Everyone should be involved to every activity.
-*  E.g.: the tech should know about the sales. The sales should know about the tech etc....  
+*  E.g.: the tech should know about the sales. The sales should know about the tech etc....
+
+### Politics
+* When people choose their words and actions based on how they want others to react rather than based on what they think
+* Avoid it all the time!!!
+
