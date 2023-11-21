@@ -5,6 +5,8 @@ Disfunctional Team
 * Hide mistakes
 * Hold grudges
 * Make assumptions
+* Avoid others
+* Try to solve everything by yourself
 
 High Performance Team
 * Be human
