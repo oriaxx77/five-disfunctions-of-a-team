@@ -65,6 +65,17 @@ High Performance Team
 
 
 # 5. Inattention to Result
+* Focus on the collective results and not your well being and promotion
+* Everyone should focus on the collective goal and not just a slice of the goal that belongs to his/her field of expertise.
+
+Disfunctional Team
+* High team turnover
+* Poor performance and results
+
+High Performance Team
+* No/low team turnover
+* Good performance and results
+
 
 ## Ego (Inattention to the collective result)
 
